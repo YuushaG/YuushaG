@@ -1,11 +1,11 @@
-<img align="left" width=350px height=197px src="https://tenor.com/en-GB/view/hokki-gif-10911547013758653677.gif">
+<img align="left" width=350px height=197px src="https://media1.tenor.com/m/l22aMnkPFO0AAAAC/hokki.gif">
 
 **About Me!**
 <br>
-<li>- 🍀 I'm constantly learning about all the fun things.</li>
-<li>- 💙 My interest is in Facebook because Himmel HERO will definitely do the same thing.</li>
-<li>- 💬 Ask me about anything, I will be happy to help.</li>
-<li>- 📫 Email me at [bayyusaa@gmail.com](mailto:bayyusaa@gmail.com).</li>
+- 🍀 I'm constantly learning about all the fun things.
+- 💙 My interest is in Facebook because Himmel HERO will definitely do the same thing.
+- 💬 Ask me about anything, I will be happy to help.
+- 📫 Email me at [bayyusaa@gmail.com](mailto:bayyusaa@gmail.com).
 <br>
 <img align="right" width=400px height=225px src="https://github-readme-streak-stats.herokuapp.com/?user=YuushaG" />
 
