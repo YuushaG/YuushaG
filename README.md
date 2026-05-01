@@ -2,12 +2,10 @@
 
 **About Me!**
 <br>
-<td width="50%" valign="top">
-        <p>🍀 I'm constantly learning about all the fun things.</p>
-        <p>💙 My interest is in cybersecurity because Himmel HERO will definitely do the same thing.</p>
-        <p>💬 Ask me about anything, I will be help to help.</p>
-        <p>📫 Email me at [bayyusaa@gmail.com](mailto:bayyusaa@gmail.com).</p>
-</td>
+- 🍀 I'm constantly learning about all the fun things.
+- 💙 My interest is in Facebook because Himmel HERO will definitely do the same thing.
+- 💬 Ask me about anything, I will be happy to help.
+- 📫 Email me at [bayyusaa@gmail.com](mailto:bayyusaa@gmail.com).
 <br>
 <img align="right" width=400px height=225px src="https://github-readme-streak-stats.herokuapp.com/?user=YuushaG" />
 
