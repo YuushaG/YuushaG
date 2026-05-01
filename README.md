@@ -3,7 +3,7 @@
 **About Me!**
 <br>
 - 🍀 I'm constantly learning about all the fun things.
-- 💙 My interest is in Facebook because Himmel HERO will definitely do the same thing.
+- 💙 My interest is in Facebook because Himmel HERO will definitely do the same.
 - 💬 Ask me about anything, I will be happy to help.
 - 📫 Email me at [bayyusaa@gmail.com](mailto:bayyusaa@gmail.com).
 <br>
